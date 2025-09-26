@@ -17,6 +17,7 @@ Department of Electronic Engineering
 Maynooth University, Ireland  
 
 ---
+<p align="center"> <img src="Images/circuits.png" alt="LLE - Jerk Circuit" width="200"/> </p>
 
 ## Repository Structure
 
