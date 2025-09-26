@@ -34,13 +34,7 @@ This folder contains the experimental voltage data collected from each circuit.
 
 As explained in the manuscript, the following figures illustrate the results of the experimental estimation of the Largest Lyapunov Exponent (LLE) obtained from the collected data.
 
-### LLE – Chua Circuit
 <p align="center">
   <img src="Images/lle_chua.png" alt="LLE - Chua Circuit" width="400"/>
-</p>
-
-### LLE – Jerk Circuit
-<p align="center">
   <img src="Images/lle_jerk.png" alt="LLE - Jerk Circuit" width="400"/>
 </p>
-
