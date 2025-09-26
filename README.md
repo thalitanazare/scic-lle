@@ -1,4 +1,7 @@
 # Switch-Controlled Initial Conditions in Chaotic Circuit Assemblies
+
+<p align="center"> <img src="Images/circuits.png" alt="LLE - Jerk Circuit" width="300"/> </p>
+
 This repository contains the datasets used and collected for the article *Switch-Controlled Initial Conditions in Chaotic Circuit Assemblies for Largest Lyapunov Exponent Estimation*, submitted to **ISCAS 2026**.  
 
 If any data from this repository is used, due credit must be given by citing the article.  
@@ -17,7 +20,6 @@ Department of Electronic Engineering
 Maynooth University, Ireland  
 
 ---
-<p align="center"> <img src="Images/circuits.png" alt="LLE - Jerk Circuit" width="200"/> </p>
 
 ## Repository Structure
 
