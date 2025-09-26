@@ -5,6 +5,7 @@
 This repository contains the datasets used and collected for the article *Switch-Controlled Initial Conditions in Chaotic Circuit Assemblies for Largest Lyapunov Exponent Estimation*, submitted to **ISCAS 2026**.  
 
 If any data from this repository is used, due credit must be given by citing the article.  
+Nazaré, T., & Nepomuceno, E. (2025). Switch-Controlled Initial Conditions in Chaotic Circuit Assemblies for Largest Lyapunov Exponent Estimation [Data set]. OSF. https://doi.org/10.17605/OSF.IO/QGCDU
 
 ---
 
